@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 ## 程序语言[![](https://img.shields.io/badge/-C++-007396?style=flat-square&logo=C++&logoColor=ffffff)](http://www.cplusplus.com/)
 
-## [小白菜·球的博客](https://www.cnblogs.com/xingqiu/)
+## [小白菜·球的博客](https://www.cnblogs.com/xingqiu/"悬停显示")
