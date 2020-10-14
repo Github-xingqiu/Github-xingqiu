@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 # 程序语言[![](https://img.shields.io/badge/-C++-007396?style=flat-square&logo=C++&logoColor=ffffff)](http://www.cplusplus.com/)
 
-# 博客园[![](https://img.shields.io/badge/-博客园-007396?style=flat-square&logo=博客园&logoColor=ffffff)](https://www.cnblogs.com/xingqiu/)
+# 博客园[![](https://img.shields.io/badge/-真%20博客园-007396?style=flat-square&logo=博客园&logoColor=ffffff)](https://www.cnblogs.com/xingqiu/)
