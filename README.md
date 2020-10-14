@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 # linux卡片[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 
-# 程序语言[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=C++&logoColor=ffffff)](http://www.cplusplus.com/)
+# 程序语言[![](https://img.shields.io/badge/-C++-007396?style=flat-square&logo=C++&logoColor=ffffff)](http://www.cplusplus.com/)
 
 
