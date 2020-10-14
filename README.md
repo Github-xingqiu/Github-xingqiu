@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**https://zhuanlan.zhihu.com/p/265462490
+
 ![](https://visitor-badge.glitch.me/badge?page_id=Github-xingqiu.readme)
+![](http://antzuhl.cn:4000/get/@Github-xingqiu.readme)
