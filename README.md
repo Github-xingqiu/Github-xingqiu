@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=Github-xingqiu.readme)
 
 
-## linux卡片[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
+## 开发平台[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 
-## 程序语言[![](https://img.shields.io/badge/-C++-007396?style=flat-square&logo=C++&logoColor=ffffff)](http://www.cplusplus.com/)
+## 编程语言[![](https://img.shields.io/badge/-C++-007396?style=flat-square&logo=C++&logoColor=ffffff)](http://www.cplusplus.com/)
 
-## [小白菜·球的博客](https://www.cnblogs.com/xingqiu"悬停显示")
+## [小白菜·球的博客](https://www.cnblogs.com/xingqiu/)
